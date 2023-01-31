@@ -1,0 +1,19 @@
+log data...
+//////////////////////
+data: {
+    saved = "plant";
+    type = "folder";
+    time = "202301311117"
+}
+data: {
+    name="all"
+    saved = "other","hanabi","fish"
+    type = "folder"
+    time = "202301311119"
+}
+data: {
+    name="all"
+    saved = "index.html"
+    target = "all_folder"
+    time = "202301311139"
+}
